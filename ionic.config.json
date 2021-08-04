@@ -1,0 +1,7 @@
+{
+  "name": "muzigigz-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
